@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipesh557
-- 👀 I’m interested in  coding and web deelopment field
+- 👀 I’m interested in  coding and web develpment field
 - 🌱 I’m currently learning html css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
